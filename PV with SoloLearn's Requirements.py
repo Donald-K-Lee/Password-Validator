@@ -57,7 +57,6 @@ def process():
     else:
         score = score + 1
         print("Password doesn't contain spaces.         Pass")
-    score==6
 p = input("Please type your desired password:")
 print("") #New line = cleaner output
 process() #Calls the function to check if the password is strong/weak
