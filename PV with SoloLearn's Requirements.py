@@ -1,3 +1,4 @@
+#By: Donald Lee
 #SoloLearn Password Validator Challenge
 #Rules
 #1. Minimum length is 5 /
